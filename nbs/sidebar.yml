@@ -1,0 +1,5 @@
+website:
+  sidebar:
+    contents:
+      - index.ipynb
+      - Stable_diffusion.ipynb

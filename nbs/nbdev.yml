@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "stable_diffusion_playground"
+  site-url: "https://davorrunje.github.io/stable_diffusion_playground"
+  description: "Playground for Stable diffusion"
+  repo-branch: main
+  repo-url: "https://github.com/davorrunje/stable_diffusion_playground"
